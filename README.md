@@ -11,7 +11,8 @@ Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas ha
 Meu objetivo é crescer profissionalmente na área de desenvolvimento de software, contribuindo com soluções inovadoras e eficientes. Acredito que dedicação, aprendizado contínuo e prática são fundamentais para alcançar grandes resultados, e estou comprometido em evoluir a cada novo projeto e desafio.
 * 🖥️ Veja meu portfólio no [linkedin](http://www.linkedin.com/in/lucas-souza-de-lima-3ba3543a7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7bGImRrlQvSXgG0yDMuNow%3D%3D) 
 * ✉️ Você pode entrar em contato comigo pelo [lucassouzadelima81@gmail.com](mailto:lucassouzadelima81@gmail.com) 
-* 🧠 Atualmente estou aprendendo 💻 Atualmente estou aprendendo HTML,CSS, JavaScript e React, desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web e criar interfaces modernas e responsivas. 
+* 🧠 Atualmente estou aprendendo 
+💻 Atualmente estou aprendendo HTML,CSS, JavaScript e React, desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web e criar interfaces modernas e responsivas. 
 * 👥 Procuro colaborar em estou em busca de estagiar na área da tecnologia
 
 <p align="left">
