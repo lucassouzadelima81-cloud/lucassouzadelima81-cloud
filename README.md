@@ -1,4 +1,4 @@
-Olá! 🚀 Primeiro semestre de Análise e Desenvolvimento de Sistemas! Cada linha de código é um passo mais perto dos meus objetivos. 💻📚 #ADS #Programação #Tecnologia
+Olá! 🚀 Primeiro semestre de Análise e Desenvolvimento de Sistemas! Cada linha de código é um passo mais perto dos meus objetivos. 💻📚 #ADS #Programação #Tecnologia.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e desenvolvimento web. Atualmente em constante evolução na área da programação, buscando conhecimentos avançados e transformando ideias em soluções digitais funcionais e modernas. 
 
