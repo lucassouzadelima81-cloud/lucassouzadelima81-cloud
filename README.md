@@ -1,21 +1,108 @@
-Olá! 🚀 Primeiro semestre de Análise e Desenvolvimento de Sistemas! Cada linha de código é um passo mais perto dos meus objetivos. 💻📚 #ADS #Programação #Tecnologia
+<div align="center">
+<img src="<a href="https://ibb.co/8g55kWCp"><img src="https://i.ibb.co/k288ZR7f/github-header-banner-1.png" alt="github-header-banner-1" border="0></a>" align="center" style="width: 100%" />
+</div>  
+  
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonado por tecnologia e desenvolvimento web. Atualmente em constante evolução na área da programação, buscando conhecimentos avançados e transformando ideias em soluções digitais funcionais e modernas. 
+### <div align="center">meu nome é lucas  👨‍💻 sou desenvolvedor front end 🚀</div>  
+  
 
-💻 Possuo conhecimentos em HTML, CSS, JavaScript e React, desenvolvendo interfaces responsivas, dinâmicas e focadas na experiência do usuário. Tenho interesse em criar aplicações web que tenham desempenho, organização de código e design intuitivo. 
-🚀 Estou sempre estudando novas tecnologias, praticando projetos e enfrentando desafios que contribuem para meu crescimento profissional. Meu objetivo é me tornar um desenvolvedor cada vez mais capacitado, construindo aplicações de qualidade e acompanhando as constantes inovações do mercado de tecnologia.
-📚 Acredito que a programação é uma ferramenta capaz de transformar ideias em realidade, e por isso mantenho o compromisso com o aprendizado contínuo, a dedicação e a busca por excelência em cada projeto desenvolvido. 
-* 🌍 Moro em Meu nome é Lucas, tenho 17 anos e sou estudante de Análise e Desenvolvimento de Sistemas (ADS). Sou apaixonado por tecnologia e estou sempre em busca de novos conhecimentos para evoluir como desenvolvedor. 
-Atualmente possuo conhecimentos em HTML, CSS, JavaScript e React, criando páginas web responsivas, modernas e funcionais. Gosto de transformar ideias em projetos práticos, aplicando boas práticas de desenvolvimento e buscando oferecer a melhor experiência possível para os usuários.
-Estou constantemente estudando e desenvolvendo projetos para aprimorar minhas habilidades, expandir meu conhecimento e me preparar para os desafios do mercado de tecnologia.
-Meu objetivo é crescer profissionalmente na área de desenvolvimento de software, contribuindo com soluções inovadoras e eficientes. Acredito que dedicação, aprendizado contínuo e prática são fundamentais para alcançar grandes resultados, e estou comprometido em evoluir a cada novo projeto e desafio.
-* 🖥️ Veja meu portfólio no [linkedin](http://www.linkedin.com/in/lucas-souza-de-lima-3ba3543a7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7bGImRrlQvSXgG0yDMuNow%3D%3D) 
-* ✉️ Você pode entrar em contato comigo pelo [lucassouzadelima81@gmail.com](mailto:lucassouzadelima81@gmail.com) 
-* 🧠 Atualmente estou aprendendo 
-💻 Atualmente estou aprendendo HTML,CSS, JavaScript e React, desenvolvendo projetos para aprimorar minhas habilidades em desenvolvimento web e criar interfaces modernas e responsivas. 
-* 👥 Procuro colaborar em estou em busca de estagiar na área da tecnologia
+- 🔭 atualmente eu trabalho em um mercado  
+  
 
-<p align="left">
+- 🌱 atualmente estou aprendendo HTML CSS e Javascript  
+  
 
-</p>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a> <a <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
+- busco minha primeira vaga como estagio  
+  
+
+- ⚡ procuro crecer na aréa o mais rapido possivel  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-souza-de-lima-3ba3543a7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BSCJ%2F2TRHRqutjZ8BWx8MXQ%3D%3D" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/lucassouzadelima81-cloud" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucassouzadelima81-cloud&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=lucas_its4&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
